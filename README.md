@@ -1,4 +1,4 @@
 # Raja
 <html>
 <head>
-<h1 style=" text align: center;"> My Portfolio</h1>
+<div style="text-align:center">MY PORTFOLIO</div>
